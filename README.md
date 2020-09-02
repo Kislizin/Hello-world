@@ -1,2 +1,2 @@
 # Hello-world
-Whot is this?
+Hi. My name is Sergey. And whot is your name?
